@@ -1,0 +1,14 @@
+/* style.css */
+:root { color-scheme: light dark; }
+body{
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 0 16px;
+  font: 16px/1.8 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+a{ text-decoration: none; }
+a:hover{ text-decoration: underline; }
+header, footer{ margin: 24px 0; }
+hr{ opacity: .2; }
+article h1{ line-height: 1.25; }
+.meta{ opacity: .7; font-size: .95rem; }
