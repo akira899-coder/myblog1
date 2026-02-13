@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>最初の記事 - My Blog</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <header>
+    <p><a href="../index.html">← Home</a></p>
+    <hr />
+  </header>
+
+  <article>
+    <h1>最初の記事</h1>
+    <p class="meta">2026-02-13</p>
+
+    <p>ここに本文を書いていく。</p>
+    <p>文章だけなので、段落を増やすだけでOK。</p>
+  </article>
+
+  <footer>
+    <hr />
+    <p class="meta">© 2026</p>
+  </footer>
+</body>
+</html>
